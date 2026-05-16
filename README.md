@@ -13,23 +13,22 @@ Watch Demo Video
 ## 📸 Screenshots
 
 ### Desktop View
-
-./public/screenshots/1.png
-./public/screenshots/2.png
-./public/screenshots/3.png
-./public/screenshots/4.png
-./public/screenshots/5.png
-./public/screenshots/6.png
+<img width="1919" height="1079" alt="1" src="https://github.com/user-attachments/assets/429f18cf-09bd-44c7-a0c7-84e887ca7693" />
+<img width="1919" height="1075" alt="2" src="https://github.com/user-attachments/assets/1de1c3c0-61c6-4f5f-914a-457fc9399ed7" />
+<img width="1919" height="1079" alt="3" src="https://github.com/user-attachments/assets/cb0e83a4-6cda-4fba-940d-854b47370fe5" />
+<img width="1919" height="1079" alt="4" src="https://github.com/user-attachments/assets/9990b673-2c80-4a51-ac53-6e3aa17c0714" />
+<img width="1919" height="1079" alt="5" src="https://github.com/user-attachments/assets/da2b6d1c-c691-4e5e-acc8-b0fbf566d38b" />
+<img width="1919" height="1079" alt="6" src="https://github.com/user-attachments/assets/cd1ef242-4b4a-4ab0-8c25-c147557441d1" />
 
 ### Mobile View
+<img width="720" height="1600" alt="7" src="https://github.com/user-attachments/assets/efbf3e45-2a66-42a6-beb9-010b70888a5b" />
+<img width="720" height="1600" alt="8" src="https://github.com/user-attachments/assets/970ea150-ec72-4b49-9366-ddc689cc2a35" />
+<img width="720" height="1600" alt="9" src="https://github.com/user-attachments/assets/8fe4ee28-993e-4391-8579-1323cc35cb25" />
+<img width="720" height="1600" alt="10" src="https://github.com/user-attachments/assets/baba1d34-6e8e-4189-9715-4c45cb523fe1" />
+<img width="720" height="1600" alt="11" src="https://github.com/user-attachments/assets/6c9ee829-ea74-4d27-8b7d-0248a2e60b5c" />
+<img width="720" height="1600" alt="12" src="https://github.com/user-attachments/assets/1ba9588f-a437-4ab3-a465-404fdadb6ad2" />
+<img width="720" height="1600" alt="13" src="https://github.com/user-attachments/assets/71172d69-1c7a-437e-b436-19db86085f1a" />
 
-./public/screenshots/7.png
-./public/screenshots/8.png
-./public/screenshots/9.png
-./public/screenshots/10.png
-./public/screenshots/11.png
-./public/screenshots/12.png
-./public/screenshots/13.png
 
 ## Tech Stack
 
