@@ -2,6 +2,35 @@
 
 A production-grade, responsive landing page built for the **Reducate.ai** internship assignment. This project reimagines a university/education platform with a bold **deep navy + gold** aesthetic, premium typography, and polished Framer Motion animations.
 
+## 🚀 Live Demo
+
+https://jg-universirt.vercel.app/
+
+## 🎥 Demo Video
+
+Watch Demo Video
+
+## 📸 Screenshots
+
+### Desktop View
+
+./public/screenshots/1.png
+./public/screenshots/2.png
+./public/screenshots/3.png
+./public/screenshots/4.png
+./public/screenshots/5.png
+./public/screenshots/6.png
+
+### Mobile View
+
+./public/screenshots/7.png
+./public/screenshots/8.png
+./public/screenshots/9.png
+./public/screenshots/10.png
+./public/screenshots/11.png
+./public/screenshots/12.png
+./public/screenshots/13.png
+
 ## Tech Stack
 
 - **Next.js 15** (App Router)
