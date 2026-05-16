@@ -33,19 +33,19 @@ const testimonials: Testimonial[] = [
   },
   {
     id: 3,
-    name: "Sneha Reddy",
-    course: "BA LLB — Corporate Law",
+    name: "Neha Thakur",
+    course: "B.Com — Finance & Accounting",
     quote:
-      "Moot courts, internships at top law firms, and faculty who are practicing advocates — this program is as real-world as it gets.",
-    avatar: "https://api.dicebear.com/7.x/avataaars/svg?seed=Sneha",
+      "The practical exposure, industry-oriented curriculum, and supportive faculty helped me build strong confidence in finance and business concepts.",
+    avatar: "https://api.dicebear.com/7.x/avataaars/svg?seed=Neha",
   },
   {
     id: 4,
-    name: "Rahul Verma",
-    course: "B.Des — Product Design",
+    name: "Sumit Thakur",
+    course: "B.Tech — Artificial Intelligence & Robotics",
     quote:
-      "Studio critiques, design sprints, and industry juries pushed my portfolio to a level I never imagined. I'm now at a leading product company.",
-    avatar: "https://api.dicebear.com/7.x/avataaars/svg?seed=Rahul",
+      "Hands-on projects, modern tech exposure, and an innovation-driven environment helped me strengthen my skills in full-stack development and AI.",
+    avatar: "https://api.dicebear.com/7.x/avataaars/svg?seed=Sumit",
   },
   {
     id: 5,

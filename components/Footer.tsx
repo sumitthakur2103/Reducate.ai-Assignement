@@ -179,7 +179,10 @@ export default function Footer() {
           viewport={{ once: true }}
         >
           <p className="text-center text-sm text-cream/40">
-            © {new Date().getFullYear()} JG University. All rights reserved.
+            Built with <span style={{ color: "red" }}>❤</span> by{" "}
+            <span className="bg-gradient-to-r from-fuchsia-400 via-violet-300 to-cyan-300 bg-clip-text font-semibold text-transparent drop-shadow-[0_0_14px_rgba(168,85,247,0.4)]">
+              Sumit Thakur
+            </span>
           </p>
           <div className="flex gap-6 text-sm text-cream/40">
             <Link href="#" className="transition-colors hover:text-gold-400">
