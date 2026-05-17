@@ -8,7 +8,7 @@ https://jg-universirt.vercel.app/
 
 ## 🎥 Demo Video
 
-Watch Demo Video
+https://drive.google.com/drive/u/0/folders/1oCzacOMLAeqSru_CwkP_gZ-8GQQ-RAm8
 
 ## 📸 Screenshots
 
